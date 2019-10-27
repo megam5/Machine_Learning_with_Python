@@ -46,31 +46,31 @@ There are many other applications of machine learning that we see every day in o
 
 #### Major Machine Learning techniques
 
-1) Regression/Estimation (Predicting continuous values): The Regression/Estimation technique is used for predicting a continuous value, for example, predicting things like the price of a house based on its characteristics.
+1) `Regression/Estimation` (Predicting continuous values): The Regression/Estimation technique is used for predicting a continuous value, for example, predicting things like the price of a house based on its characteristics.
 
-2) Classification (Predicting the item's class/category): A Classification technique is used for predicting the class or category of a case, for example, if a cell is benign or malignant, or whether an email is a spam or not spam.
+2) `Classification` (Predicting the item's class/category): A Classification technique is used for predicting the class or category of a case, for example, if a cell is benign or malignant, or whether an email is a spam or not spam.
 
-3) Clustering (Finding the structure of data; summarization):	Clustering groups of similar cases, for example, can find similar patients, or can be used for customer segmentation in the banking field.
+3) `Clustering` (Finding the structure of data; summarization):	Clustering groups of similar cases, for example, can find similar patients, or can be used for customer segmentation in the banking field.
 
-4) Association (Associating frequent co-occurring items/events):  Association technique is used for finding items or events that often co-occur, for example, grocery items that are usually bought together by a particular customer.
+4) `Association` (Associating frequent co-occurring items/events):  Association technique is used for finding items or events that often co-occur, for example, grocery items that are usually bought together by a particular customer.
 
-5) Anomaly Detection (Discovering abnormal and unusual cases): Anomaly detection is used to discover abnormal and unusual cases, for example, it is used for credit fraud detection.
+5) `Anomaly Detection` (Discovering abnormal and unusual cases): Anomaly detection is used to discover abnormal and unusual cases, for example, it is used for credit fraud detection.
 
-6) Sequence Mining (Predicting next events; click-stream): Sequence mining is used for predicting the next event, for instance, the click-stream in websites.
+6) `Sequence Mining` (Predicting next events; click-stream): Sequence mining is used for predicting the next event, for instance, the click-stream in websites.
 
-7) Dimension Reduction (Reducing the size of the data): Dimension reduction is used to reduce the size of data.
+7) `Dimension Reduction` (Reducing the size of the data): Dimension reduction is used to reduce the size of data.
 
-8) Recommendation Systems (Recommending items): Recommendation systems; this associate's people's preferences with others who have similar tastes, and recommends new items to them, such as books or movies.
+8) `Recommendation Systems` (Recommending items): Recommendation systems; this associate's people's preferences with others who have similar tastes, and recommends new items to them, such as books or movies.
 
 #### Difference between Artificial Intelligence, Machine Learning, Deep Learning
 
 By this point, I’m quite sure this question has crossed your mind, “What is the difference between these buzzwords that we keep hearing these days, such as Artificial intelligence (or AI), Machine Learning and Deep Learning?” Well, let me explain what is different between them.
 
-In brief, AI tries to make computers intelligent to mimic the cognitive functions of humans. So, Artificial Intelligence is a general field with a broad scope including Computer Vision, Language Processing, Creativity, etc.
+- In brief, `Artificial Intelligence` tries to make computers intelligent to mimic the cognitive functions of humans. So, Artificial Intelligence is a general field with a broad scope including Computer Vision, Language Processing, Creativity, etc.
 
-Machine Learning is the branch of AI that covers the statistical part of artificial intelligence. It teaches the computer to solve problems by looking at hundreds or thousands of examples, learning from them, and then using that experience to solve the same problem in new situations.
+- `Machine Learning` is the branch of AI that covers the statistical part of artificial intelligence. It teaches the computer to solve problems by looking at hundreds or thousands of examples, learning from them, and then using that experience to solve the same problem in new situations.
 
-Deep Learning is a very special field of Machine Learning where computers can learn and make intelligent decisions on their own. Deep learning involves a deeper level of automation in comparison with most machine learning algorithms.
+- `Deep Learning` is a very special field of Machine Learning where computers can learn and make intelligent decisions on their own. Deep learning involves a deeper level of automation in comparison with most machine learning algorithms.
 
 ![GitHub6](https://user-images.githubusercontent.com/55942773/67642811-ad71a580-f935-11e9-8157-52738f5d7ca2.JPG)
 
