@@ -26,7 +26,7 @@ Well, imagine that you’ve obtained a dataset containing characteristics of tho
 
 ####  How Machine Learning works?
 
-Let me explain what I mean when I say “without being explicitly programmed.” Assume that you have a dataset of images of animals such as cats and dogs, and you want to have a software or an application that can recognize and differentiate them. The first thing that you have to do here is to interpret the images as a set of feature sets. For example, does the image show the animal’s eyes? If so, what is their size? Does it have ears? What about a tail? How many legs? Does it have wings?
+Let me explain what I mean when I say `“without being explicitly programmed”.` Assume that you have a dataset of images of animals such as cats and dogs, and you want to have a software or an application that can recognize and differentiate them. The first thing that you have to do here is to interpret the images as a set of feature sets. For example, does the image show the animal’s eyes? If so, what is their size? Does it have ears? What about a tail? How many legs? Does it have wings?
 
 Before machine learning, each image would be transformed into a vector of features. Then, traditionally, we had to write down some rules or methods to get computers to be intelligent and detect animals. But, it was a failure. Why? Well, it needed a lot of rules, highly dependent on the current dataset, and not generalized enough to detect out-of-sample cases.
 
